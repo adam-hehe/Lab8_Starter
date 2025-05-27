@@ -1,1 +1,3 @@
-# Lab8-Starter
+# Adam Connor
+
+Graceful degradation and service workers are related in that both aim to improve user experience. Service workers enable web apps to function offline or in poor network environments by caching assets. This aligns with graceful degradation, where a site built with full functionality but has a fallback incase things like the javascript portion in disabled. Service workers help implement graceful degradation by ensuring core functionality is maintained when modern capabilities are unavailable.
